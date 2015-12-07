@@ -1,0 +1,49 @@
+Pagesettings: 
+
+----
+
+Title: Business Lunch Menu
+
+----
+
+Text: 
+
+----
+
+Menulist: 
+
+- 
+  title: Menu Item 3
+  description: >
+    Duis mollis, est non commodo luctus,
+    nisi erat porttitor ligula, eget lacinia
+    odio sem nec elit. Cras mattis sit amet
+    fermentum.
+  price: $0.00
+  item: Item Title 3
+- 
+  title: Menu Item 2
+  description: >
+    Praesent commodo cursus magna, vel
+    scelerisque nisl consectetur et.
+  price: $0.00
+  item: Item Title 1
+- 
+  title: Menu Item 1
+  description: >
+    Praesent commodo cursus magna, vel
+    scelerisque nisl consectetur et.
+  price: $0.00
+  item: Item Title 2
+
+----
+
+Menu: 
+
+----
+
+Category: foo
+
+----
+
+Tags: tag1,tag 2
