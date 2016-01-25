@@ -1,0 +1,26 @@
+Title: Classic
+
+----
+
+Category: general
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+----
+
+Menuitems: 
+
+----
+
+Menulist: 
+
+- 
+  item: sdfsdf
+  description: sdfsdfs
+  price: "0.00"
