@@ -2,10 +2,6 @@ Title: Grand Food & Beverage
 
 ----
 
-Author: 
-
-----
-
 Description: 
 
 ----
@@ -15,3 +11,14 @@ Keywords:
 ----
 
 Copyright: © (date: Year) Choura Venue Services
+
+----
+
+Address: 
+
+4101 E. Willow St.
+Long Beach, CA
+
+----
+
+Phone: 562.426.0555

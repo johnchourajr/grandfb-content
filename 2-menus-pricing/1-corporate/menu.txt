@@ -54,8 +54,8 @@ Menu:
 
 ----
 
-Category: foo
+Category: classic
 
 ----
 
-Tags: tag1,tag 2
+Tags: 
