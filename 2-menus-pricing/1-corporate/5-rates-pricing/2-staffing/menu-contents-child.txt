@@ -1,0 +1,46 @@
+Displaytitle: Staff Pricing
+
+----
+
+Category: corporate
+
+----
+
+Text: 
+
+----
+
+Menulist: 
+
+- 
+  item: Menu Item
+  description: >
+    Aenean eu leo quam. Pellentesque ornare
+    sem lacinia quam venenatis vestibulum.
+  price: $0.00
+- 
+  item: Menu Item
+  description: >
+    Aenean eu leo quam. Pellentesque ornare
+    sem lacinia quam venenatis vestibulum.
+  price: $0.00
+- 
+  item: Menu Item
+  description: >
+    Aenean eu leo quam. Pellentesque ornare
+    sem lacinia quam venenatis vestibulum.
+  price: $0.00
+- 
+  item: Menu Item
+  description: >
+    Aenean eu leo quam. Pellentesque ornare
+    sem lacinia quam venenatis vestibulum.
+  price: $0.00
+
+----
+
+Tags: 
+
+----
+
+Title: Staffing

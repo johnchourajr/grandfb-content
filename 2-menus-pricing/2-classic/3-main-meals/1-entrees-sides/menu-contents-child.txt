@@ -1,0 +1,26 @@
+Displaytitle: Entrees & Sides
+
+----
+
+Category: classic
+
+----
+
+Text: Entrees are $12.00 each
+
+----
+
+Menulist: 
+
+- 
+  item: sdfadf
+  description: sdfsdf
+  price: "0.00"
+
+----
+
+Tags: 
+
+----
+
+Title: Entrees & Sides

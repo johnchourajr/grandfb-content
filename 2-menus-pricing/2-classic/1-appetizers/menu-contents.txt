@@ -1,12 +1,16 @@
-Pagesettings: 
+Title: Appetizers
 
 ----
 
-Title: Corporate
+Category: classic
 
 ----
 
 Text: 
+
+Our tray passed hors d'oeuvre and snacks are meant to be shared. Selections listed by type from heavier to lighter preparations. Minimum 25 Guests.
+
+**$3.50 per appetizer**
 
 ----
 
@@ -51,10 +55,6 @@ Menulist:
 ----
 
 Menu: 
-
-----
-
-Category: classic
 
 ----
 

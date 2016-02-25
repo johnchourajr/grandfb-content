@@ -1,0 +1,30 @@
+Pagesettings: 
+
+----
+
+Title: Corporate
+
+----
+
+Text: 
+
+----
+
+Menulist: 
+
+- 
+  item: .
+  description: ""
+  price: ..
+
+----
+
+Menu: 
+
+----
+
+Category: classic
+
+----
+
+Tags: 
