@@ -1,0 +1,30 @@
+Displaytitle: Sides
+
+----
+
+Category: corporate
+
+----
+
+Text: A la carte for a minimum of 25 guests
+
+----
+
+Menulist: 
+
+- 
+  item: Individual Whole Fresh Fruit
+  description: ""
+  price: '$1.25 **per person**'
+- 
+  item: Individual Yogurts
+  description: ""
+  price: '$1.75 **per person**'
+
+----
+
+Tags: 
+
+----
+
+Title: Sides

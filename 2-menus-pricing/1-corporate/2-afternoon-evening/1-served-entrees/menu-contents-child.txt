@@ -1,0 +1,112 @@
+Displaytitle: Served Entrees
+
+----
+
+Category: corporate
+
+----
+
+Text: Served entrees include dinner rolls and chef’s choice dessert. Beverage service includes coffee, iced tea, and water.
+
+----
+
+Menulist:
+
+-
+  item: Pick The Entree
+  description: ""
+  price: ""
+-
+  item: ""
+  description: >
+    **Lemon Chicken** - Bone in Chicken Breast with Lemon-Caper Beurre Blanc
+  price: $16.95
+-
+  item: ""
+  description: >
+    **Chicken or Eggplant Parmesan** - with Fresh Mozzarella, Basil, and House-Made Marinara Sauce
+  price: $16.95
+-
+  item: ""
+  description: >
+    **Marsala Chicken** - with Sautéed Mushrooms, Caramelized Onions, and Classic Marsala Wine Sauce
+  price: $16.95
+-
+  item: ""
+  description: >
+    **Beef Brisket** - Braised and Fork Tender Beef Brisket served with Natural Jus
+  price: $18.95
+-
+  item: ""
+  description: >
+    **Asian Salmon** - with Baby Bok Choy, Shiitake Mushrooms, and Sweet Soy Reduction
+  price: $22.95
+-
+  item: ""
+  description: >
+    **Pan Seared Salmon** - with Mango Salsa
+  price: $22.95
+-
+  item: Pick One Salad
+  description: ""
+  price: ""
+-
+  item: ""
+  description: >
+    **Tossed Greens** - with Carrots, Tomato, Cucumber, and Ranch & Balsamic Dressing
+  price: ""
+-
+  item: ""
+  description: >
+    **Traditional Caesar** - with Shaved Parmesan, Garlic Croutons, and Creamy Caesar Dressing
+  price: ""
+-
+  item: ""
+  description: >
+    **Mixed Greens** - with Cranberry, Candied Pecans and Gorgonzola
+  price: ""
+-
+  item: ""
+  description: >
+    **Kale Salad**
+  price: ""
+-
+  item: Pick Two Sides
+  description: ""
+  price: ""
+-
+  item: ""
+  description: >
+    **Chef’s Fresh Vegetables**
+  price: ""
+-
+  item: ""
+  description: >
+    **Rice Pilaf**
+  price: ""
+-
+  item: ""
+  description: >
+    **Roasted Red Potatoes**
+  price: ""
+-
+  item: ""
+  description: >
+    **Garlic Mashed Potatoes**
+  price: ""
+-
+  item: + Add a Second Protien
+  description: ""
+  price: add $3.00 **per person**
+-
+  item: + Add a Second Salad or Side
+  description: ""
+  price: add $1.50 **per person**
+
+----
+
+Tags:
+
+----
+
+Title: Served Entrees

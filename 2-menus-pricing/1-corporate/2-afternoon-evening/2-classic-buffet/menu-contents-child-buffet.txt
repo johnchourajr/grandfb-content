@@ -1,0 +1,208 @@
+Displaytitle: Classic Buffets
+
+----
+
+Category: corporate
+
+----
+
+Text: Buffets include dinner rolls and chef’s choice dessert. beverage service includes coffee, iced tea, and water. **Minimum 15 people.**
+
+----
+
+Tags: 
+
+----
+
+Title: Classic Buffet
+
+----
+
+Buffetmenulist: 
+
+- 
+  buffetitem: Little Italy
+  buffetprice1: |
+    $14.95 **for lunch**
+  buffetprice2: |
+    $18.95 **for dinner**
+  buffetdescription: ""
+  buffetsalads: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetentrees: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetsides: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+- 
+  buffetitem: South of the Border
+  buffetprice1: |
+    $14.95 **for lunch**
+  buffetprice2: |
+    $18.95 **for dinner**
+  buffetdescription: ""
+  buffetsalads: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetentrees: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetsides: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+- 
+  buffetitem: Southern Comfort
+  buffetprice1: |
+    $14.95 **for lunch**
+  buffetprice2: |
+    $18.95 **for dinner**
+  buffetdescription: ""
+  buffetsalads: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetentrees: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetsides: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+- 
+  buffetitem: American Grill
+  buffetprice1: |
+    $14.95 **for lunch**
+  buffetprice2: |
+    $18.95 **for dinner**
+  buffetdescription: ""
+  buffetsalads: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetentrees: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetsides: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+- 
+  buffetitem: Taste of Asia
+  buffetprice1: |
+    $14.95 **for lunch**
+  buffetprice2: |
+    $18.95 **for dinner**
+  buffetdescription: ""
+  buffetsalads: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetentrees: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetsides: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+- 
+  buffetitem: Polynesian Luau
+  buffetprice1: |
+    $14.95 **for lunch**
+  buffetprice2: |
+    $18.95 **for dinner**
+  buffetdescription: ""
+  buffetsalads: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetentrees: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+  buffetsides: |
+    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    
+    
+    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    
+    
+    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette

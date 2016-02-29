@@ -1,0 +1,66 @@
+Displaytitle: Breakfast Drinks
+
+----
+
+Category: corporate
+
+----
+
+Text: Served during breakfast hours
+
+----
+
+Menulist: 
+
+- 
+  item: Coffee
+  description: ""
+  price: $1.25 **per person**
+- 
+  item: Decaf
+  description: ""
+  price: $1.25 **per person**
+- 
+  item: Hot Tea
+  description: ""
+  price: $1.75 **per person**
+- 
+  item: Hot Chocolate
+  description: ""
+  price: $1.75 **per person**
+- 
+  item: Hot Apple Cider
+  description: ""
+  price: $1.75 **per person**
+- 
+  item: Ice Water
+  description: ""
+  price: $1.25 **per person**
+- 
+  item: Bottled Water
+  description: ""
+  price: $1.25 **per beverage**
+- 
+  item: Milk Bottle
+  description: ""
+  price: $1.35 **per beverage**
+- 
+  item: Bottled Orange Juice
+  description: ""
+  price: $1.45 **per beverage**
+- 
+  item: Bottled Apple Juice
+  description: ""
+  price: $1.45 **per beverage**
+- 
+  item: Bottled Cranberry Juice
+  description: ""
+  price: $1.45 **per beverage**
+
+----
+
+Tags: 
+
+----
+
+Title: Drinks
