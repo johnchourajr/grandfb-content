@@ -2,8 +2,37 @@ Title: About Grand
 
 ----
 
-Text: 
+Text: Based in Long Beach, California, Grand Food & Beverage is a family owned and operated catering company which serves corporate, wedding, and social events throughout Southern California. whether you’re planning a continental breakfast for ten or a 5-star, sit-down dinner for 1,500 we bring over 40 years of passionate experience to exceeding your expectations at every level.
 
-Testing changes.
+----
 
-Changes here.
+Teamlist: 
+
+- 
+  name: Jim Choura
+  jobtitle: Founder
+  image: prof-jim.jpg
+- 
+  name: Devin Wright
+  jobtitle: Director of Offsite Catering
+  image: prof-devin.jpg
+- 
+  name: "Dan D'sa"
+  jobtitle: Director
+  image: prof-dan.jpg
+- 
+  name: Manolo Hernandez
+  jobtitle: Chef
+  image: prof-manolo.jpg
+- 
+  name: Fernando Licea
+  jobtitle: Catering Operations Manager
+  image: prof-fernando.jpg
+- 
+  name: Carlos Martinez
+  jobtitle: Assistant Catering Operations Manager
+  image: prof-carlos.jpg
+- 
+  name: Rachael Barcza
+  jobtitle: Director of Administration
+  image: prof-rachael.jpg
