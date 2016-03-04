@@ -26,12 +26,40 @@ Promoitem1url:
 
 ----
 
-Promo1title: 
+Promo1title: Party in<br/>a Box
 
 ----
 
-Promo1image: 
+Promo1image: promo-1.jpg
 
 ----
 
-Promo1url: 
+Promo1url: /menus-pricing/corporate#party-in-a-box
+
+----
+
+Promo2title: Our Grand</br> Team
+
+----
+
+Promo2image: promo-2.jpg
+
+----
+
+Promo2url: /about
+
+----
+
+Promo3title: Beyond</br>Ordinary Menus
+
+----
+
+Promo3image: promo-3.jpg
+
+----
+
+Promo3url: /menus-pricing/classic
+
+----
+
+Cta: Book your next event with us.
