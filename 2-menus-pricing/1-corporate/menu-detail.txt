@@ -2,7 +2,7 @@ Pagesettings:
 
 ----
 
-Title: Corporate
+Title: Corporate Menus
 
 ----
 
