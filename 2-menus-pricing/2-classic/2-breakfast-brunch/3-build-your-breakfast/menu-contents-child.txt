@@ -1,0 +1,53 @@
+Title: Build Your Breakfast
+
+----
+
+Category: classic
+
+----
+
+Text: A la carte for a minimum of 25 people.
+
+----
+
+Menulist: 
+
+- 
+  item: ""
+  description: ""
+  price: '$1.25 **per person**'
+- 
+  item: Pick an Egg
+  description: 'Scrambled Eggs | Eggs & Cheese | Eggs & Chorizo | Eggs & Veggies'
+  price: ""
+- 
+  item: Pick a Potato
+  description: >
+    Hash Browns | Country Potatoes | Skillet
+    Potatoes | Sweet Potato Hash
+  price: ""
+- 
+  item: Pick a Protein
+  description: >
+    Bacon | Turkey Sausage Links | Turkey
+    Bacon | Sausage Links | Sausage Patties
+    Morning Star Veggie Patties
+  price: ""
+- 
+  item: Pick a Baked Good
+  description: >
+    Petite Croissants | Mini Muffns | Mini
+    Bagels | Zucchini Bread
+  price: ""
+
+----
+
+Menu: 
+
+----
+
+Tags: 
+
+----
+
+Displaytitle: Build Your Own B'fast

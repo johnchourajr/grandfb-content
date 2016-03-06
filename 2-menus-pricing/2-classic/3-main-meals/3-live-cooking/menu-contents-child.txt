@@ -6,11 +6,51 @@ Category: classic
 
 ----
 
-Text: 
+Text: Your people can enjoy the sights, smells, and sounds of watching their food made-to-order. Chef Required. Minimum 25 people.
 
 ----
 
 Menulist: 
+
+- 
+  item: Mama Italia
+  description: |
+    **Select Two Pastas**
+    - Rotelli
+    - Orecchiette
+    - Penne
+    - Fusilli
+    
+    **Select Two Sauces**
+    - Bolognese
+    - Spicy Tuscan
+    - Puttanesca
+    - Herb Alfredo
+    - Pesto Cream
+    - Mushroom Cream
+    
+    **Select Three**
+    - Italian Sausage
+    - Grilled Chicken
+    - Garlic Shrimp
+    - Crab Meat
+    - Manila Clams
+    - Roasted Vegetables
+    
+    **Includes All**
+    Basil Pesto | Parmesan Cheese | Gorgonzola Cheese
+    Sun Dried Tomato | Kalamata Olives | Capers | Fresh Herbs
+  price: "$12 **per person** <br/>+$2.50 **for Add on's**"
+- 
+  item: Slider Style
+  description: |
+    **Select Two Combinations**
+    - Kahlua Pulled Pork | Hawaiian Bread & Papaya Salsa
+    - Angus Beef | Onion Con t & Blue Cheese
+    - Blackened Chicken | Honey Mustard & Swiss Cheese
+    - Turkey | Biscuit, Cranberry, Mashed Potato & Gravy
+    - Southwest Black Bean | Pepperjack & Guacamole
+  price: "$10 **per person** <br/>+$2.50 **for Add on's**"
 
 ----
 

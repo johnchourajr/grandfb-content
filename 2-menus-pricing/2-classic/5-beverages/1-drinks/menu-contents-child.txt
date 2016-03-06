@@ -1,0 +1,86 @@
+Displaytitle: Drinks
+
+----
+
+Category: corporate
+
+----
+
+Text: 
+
+----
+
+Menulist: 
+
+- 
+  item: Hot
+  description: Twelve 10oz. Servings Per Gallon
+  price: ""
+- 
+  item: ""
+  description: '**Freshly-Brewed Gevalia Coffee**'
+  price: '$18 **Per Gallon**'
+- 
+  item: ""
+  description: **Freshly-Brewed Gevalia Decaf Coffee**
+  price: '$18 **per gallon**'
+- 
+  item: ""
+  description: **Hot Tazo Tea Service**
+  price: '$15 **per gallon**'
+- 
+  item: ""
+  description: **Hot Chocolate**
+  price: '$18 **per gallon**'
+- 
+  item: ""
+  description: **Hot Apple Cider**
+  price: '$15 **per gallon**'
+- 
+  item: Cold
+  description: Twelve 10oz. Servings Per Gallon
+  price: ""
+- 
+  item: ""
+  description: **Iced Tea**
+  price: '$15 **per gallon**'
+- 
+  item: ""
+  description: **Lemonade**
+  price: '$15 **per gallon**'
+- 
+  item: ""
+  description: **Iced Water**
+  price: '$5 **per gallon**'
+- 
+  item: ""
+  description: **Fruit Punch**
+  price: '$15 **per gallon**'
+- 
+  item: Cold On The Go
+  description: Chilled Individual Portions
+  price: ""
+- 
+  item: ""
+  description: **Canned Soda**
+  price: '$1.25 **each**'
+- 
+  item: ""
+  description: **Bottled Water**
+  price: '$1.25 **each**'
+- 
+  item: ""
+  description: **Fruit Juice**
+  price: '$1.25 **each**'
+- 
+  item: ""
+  description: **Canned Iced Tea**
+  price: '$1.25 **each**'
+
+----
+
+Tags: 
+
+----
+
+Title: Drinks

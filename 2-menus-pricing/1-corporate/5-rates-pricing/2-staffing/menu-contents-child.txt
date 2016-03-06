@@ -6,36 +6,36 @@ Category: corporate
 
 ----
 
-Text: 
+Text: Hourly rate per staff member.
 
 ----
 
 Menulist: 
 
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Busser
+  description: ""
+  price: $25 **per hour**
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Event Server
+  description: "" 
+  price: $30 **per hour**
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Beer & Wine Server
+  description: ""
+  price: $35 **per hour**
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Bartender
+  description: ""
+  price: $40 **per hour**
+- 
+  item: Event Chef
+  description: ""
+  price: $40 **per hour**
+- 
+  item: Event Captain
+  description: ""
+  price: $40 **per hour**
 
 ----
 

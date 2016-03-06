@@ -1,0 +1,54 @@
+Displaytitle: Desserts
+
+----
+
+Category: corporate
+
+----
+
+Text: Available by the dozen.
+
+----
+
+Menulist: 
+
+- 
+  item: Assorted Cookies
+  description: ""
+  price: $15
+- 
+  item: Brownie Bites
+  description: ""
+  price: $18
+- 
+  item: Lemon Bars
+  description: ""
+  price: $18
+- 
+  item: Carrot Cake Bites
+  description: ""
+  price: $16
+- 
+  item: Cheesecake Bites
+  description: ""
+  price: $18
+- 
+  item: Mini Fruit Tarts
+  description: ""
+  price: $21
+- 
+  item: Chocolate Mousse Cups
+  description: ""
+  price: $22
+- 
+  item: Chocolate Dipped Strawberries
+  description: ""
+  price: Market Price
+
+----
+
+Tags: 
+
+----
+
+Title: Deserts

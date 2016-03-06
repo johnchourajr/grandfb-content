@@ -1,0 +1,55 @@
+Displaytitle: 
+
+----
+
+Category: classic
+
+----
+
+Text: 
+
+----
+
+Menuitems: 
+
+----
+
+Menulist: 
+
+- 
+  item: Tray Passed or Plated
+  description: ""
+  price: '$3.50 **Per dessert**'
+- 
+  item: ""
+  description: |
+    **Coconut Macaroons**
+    **Grilled Strawberry Basil Short Cake**
+    **Apple Cobbler & Vanilla Bean Ice Cream**
+    **Assorted Petit Fours**
+    **Mini Cannolis**
+    **Assorted Cupcakes**
+    **Assorted Bars** - Pecan, Lemon
+    **Tuxedo Cake**
+    **Mini Bundts** - Lemon, Chocolate, Red Velvet, Vanilla & Carrot
+    **Salted Caramel Tarts**
+    **Cheesecake**
+  price: ""
+- 
+  item: 'Cookies, Bars & Brownies'
+  description: ""
+  price: '$18 **Per dozen**'
+- 
+  item: Custom Dessert Bar
+  description: >
+    Available upon request from our award
+    winning pastry chef
+  price: ""
+
+----
+
+Tags: 
+
+----
+
+Title: Desserts

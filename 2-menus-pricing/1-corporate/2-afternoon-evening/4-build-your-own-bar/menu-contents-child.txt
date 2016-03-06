@@ -1,4 +1,4 @@
-Displaytitle: Build Your Own Bar
+Displaytitle: Build Your Own
 
 ----
 
@@ -6,36 +6,18 @@ Category: corporate
 
 ----
 
-Text: 
+Text: **Minimum of 15 people**
 
 ----
 
 Menulist: 
 
 - 
-  item: Menu Item
+  item: Sandwich or Salad Bar
   description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
-- 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
-- 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
-- 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+    We bring all the items separately and
+    people can customize to their liking
+  price: '$11.95 **per person**'
 
 ----
 

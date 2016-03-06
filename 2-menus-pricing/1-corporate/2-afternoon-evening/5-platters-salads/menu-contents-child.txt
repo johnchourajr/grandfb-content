@@ -13,29 +13,73 @@ Text:
 Menulist: 
 
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Platters
+  description: "Each platter serves 25 people."
+  price: ""
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: ""
+  description: '**Fresh Fruit Platter**'
+  price: $47
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: ""
+  description: '**Domestic Cheese Display with Crackers**'
+  price: $47
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: ""
+  description: '**Gourmet Cheese Display and Crostini's**'
+  price: $51
+- 
+  item: ""
+  description: '**Vegetable Crudités with Herb Dip**'
+  price: $42
+- 
+  item: ""
+  description: '**Antipasto Platter**'
+  price: $56
+- 
+  item: ""
+  description: '**Assorted Wrap Sandwiches**'
+  price: $54
+- 
+  item: ""
+  description: '**Mini Bun Sandwiches**'
+  price: $54
+- 
+  item: Salads
+  description: "Each salad serves 25 people."
+  price: ""
+- 
+  item: ""
+  description: '**Tossed Greens**'
+  price: $42
+- 
+  item: ""
+  description: '**Spanish Ceasar**'
+  price: $42
+- 
+  item: ""
+  description: '**Fruit Salad**'
+  price: $42
+- 
+  item: ""
+  description: '**Pasta Salad**'
+  price: $42
+- 
+  item: ""
+  description: '**Potato Salad**'
+  price: $42
+- 
+  item: ""
+  description: '**Chopped Antipasto Salad**'
+  price: $56
+- 
+  item: ""
+  description: '**Orzo Salad**'
+  price: $42
+- 
+  item: ""
+  description: '**Kale Salad**'
+  price: $56
 
 ----
 

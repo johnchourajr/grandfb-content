@@ -1,0 +1,67 @@
+Title: Brunch
+
+----
+
+Category: classic
+
+----
+
+Text: 
+
+----
+
+Menulist: 
+
+- 
+  item: Omelet Bar
+  description: |
+    **Includes All**
+    
+    Smoked Bacon | Peppers & Onions | Baby Spinach | Mushrooms | Diced Tomato | Scallions Cheddar Cheese | Feta Cheese
+  price: ""
+- 
+  item: Waffle Bar
+  description: |
+    **Includes All**
+    
+    Bacon | Berries | Whipped Cream | Banana | Syrup | Powdered Sugar | Chocolate Chips | Butter
+  price: ""
+- 
+  item: Savory Crepe Bar
+  description: |
+    **Select One**
+    
+    - Eggs, Spinach, Mushroom & Swiss Fondue Sauce
+    - Chicken & Sundried Tomato Crema
+    - Roasted Vegetables & Feta
+  price: ""
+- 
+  item: Sweet Crepe Bar
+  description: |
+    **Select One**
+    
+    - Apple Cinnamon
+    - Berries
+    - Nutella & Banana
+    - Cinnamon & Sugar
+    
+    **Includes All**
+    
+    Whipped Cream | Slivered Almonds | Berries | Cinnamon & Sugar | Powdered Sugar
+  price: ""
+- 
+  item: Live Carving
+  description: 'See the [Live Carving Options](#live-carving).'
+  price: ""
+
+----
+
+Menu: 
+
+----
+
+Tags: 
+
+----
+
+Displaytitle: Brunch

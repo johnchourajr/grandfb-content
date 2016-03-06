@@ -22,187 +22,184 @@ Buffetmenulist:
 
 - 
   buffetitem: Little Italy
-  buffetprice1: |
-    $14.95 **for lunch**
-  buffetprice2: |
-    $18.95 **for dinner**
-  buffetdescription: ""
+  buffetprice1: '$14.95 **for lunch**'
+  buffetprice2: '$18.95 **for dinner**'
+  buffetdescription: |
+    **Add a Second Protein** add $3/person
+    **Add A Second Salad or Side** add $1.50/person
+    **Themed Décor Available** add $35/buffet
   buffetsalads: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Antipasto Platter** - Roasted Peppers, Marinated Artichokes, Assorted Meats, Salami, Coppa, Sliced Provolone Cheese, Pepperoncini, Assorted Olives
     
+    **Angel Hair Pasta Salad** - Marinated Pasta with Assorted Olives, Capers, Mozzarella Cheese and Roasted Tomato Vinaigrette
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Caprese Salad** - Mixed Greens, Marinated Mozzarella, Assorted Tomatoes, Fresh Basil and Balsamic Vinaigrette
     
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Orzo Salad** - Orzo, Cherry Tomatoes, Kalamata Olives, Capers, Grilled Asparagus and Homemade Pestoaragus and Homemade Pesto
   buffetentrees: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Chicken or Eggplant Parmesan** - Pan Seared Chicken Breast or Baked Eggplant, Fresh Provolone and House-Made Marinara
     
+    **Bistecca** - Grilled Tri-tip with Fresh Lemon, Garlic, Fresh Parmesan and Tomato-Basil Vinaigrette
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Penne Pasta** - Italian Sausage, Caramelized Onions, Roasted Peppers and Rustic Basil-Alfredo Sauce
     
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Pasta Primavera** - Fettuccine Pasta with “Primavera Vegetables” and White Wine Cream Sauce
   buffetsides: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Vegetable Primavera** - Grilled Zucchini, Assorted Peppers, Asparagus, Roasted Baby Carrots Seasoned with Garlic-Basil Butter
     
-    
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Fettuccine Olio di Burro** - Pasta with Butter, Fresh Italian Parsley, Extra Virgin Olive Oil and Parmesan Cheese
 - 
   buffetitem: South of the Border
-  buffetprice1: |
-    $14.95 **for lunch**
-  buffetprice2: |
-    $18.95 **for dinner**
-  buffetdescription: ""
+  buffetprice1: '$14.95 **for lunch**'
+  buffetprice2: '$18.95 **for dinner**'
+  buffetdescription: |
+    **Add a Second Protein** add $3/person
+    **Add A Second Salad or Side** add $1.50/person
+    **Themed Décor Available** add $35/buffet
   buffetsalads: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Black Bean Salad** - Black Beans with Grilled Corn, Cherry Tomatoes, Queso Fresco and Spicy Honey-Lime Vinaigrette
     
-    
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Mexican Chopped Salad** - Mixed Lettuces with Jicama, Radishes, Tomatoes, Crispy Tortilla Chips and Spicy Cilantro Dressing
   buffetentrees: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Chicken Fajitas** - Marinated with Cilantro, Lime, Toasted Cumin, Caramelized Onions and Mixed Peppers Shrimp Fajitas [Please add $3.00 per person]
     
+    **Beef or Chicken Enchilada Casserole** - Slow Roasted and Shredded with Mexican Spices, Home-Made Red Sauce and Spicy Pepper Jack Cheese
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Pollo Asada** - Marinated Chicken Breast with Fresh Citrus, Cumin, Garlic and Fresh Herbs
   buffetsides: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Mexican Rice**
     
+    **Refried, Pinto OR Black Beans with Queso Fresco **
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Corn and Flour Tortillas**
     
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Home-Made Pico de Gallo**
 - 
   buffetitem: Southern Comfort
-  buffetprice1: |
-    $14.95 **for lunch**
-  buffetprice2: |
-    $18.95 **for dinner**
-  buffetdescription: ""
+  buffetprice1: '$14.95 **for lunch**'
+  buffetprice2: '$18.95 **for dinner**'
+  buffetdescription: |
+    **Add a Second Protein** add $3/person
+    **Add A Second Salad or Side** add $1.50/person
+    **Themed Décor Available** add $35/buffet
   buffetsalads: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Classic Cobb** - Assorted Lettuce with Avocado, Smoked Ham, Dolce Gorgonzola and House- Made Buttermilk Ranch
     
+    **Cole Slaw** - Shredded Napa Cabbage, Apples, Toasted Pecans with a Spicy Dijon and Lemon Vinaigrette
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Potato Salad** - Yukon Potatoes, Fresh Capers, Smoked Bacon, Scallions, Sweet House-cured Pickles with Classic Mayo dressing
   buffetentrees: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Chicken** - Buttermilk Brined Fried Chicken or Simply Grilled Chicken Breast
     
+    **Pork** - Smoked Pork Ribs featuring the Grand’s Signature Rub
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Beef** - Grilled Tri-tip Marinated with Fresh Herbs, Garlic and Lemon
     
+    **Catfish** - Cornmeal-Crusted, Fried Catfish with Creole Beurre Blanc
     
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Tofu** - Smoked Tofu with Portabellas, Roasted Artichokes, Eggplant and Caramelized Onions
   buffetsides: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **The Mash** - Yukon Potatoes with Roasted Garlic, Sour Cream and Grilled Scallions
     
+    **Corn on the Cob** - Grilled Corn with Smokey Chipotle Butter
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Mac and Cheese** - Farmhouse Cheddar, Crispy Pancetta, Fresh Chives and a Crispy Bread Crumb Crust
     
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Baked Beans** - Slow Baked Pinto Beans with Caramelized Onions, Brown Sugar and Smoked Bacon
 - 
   buffetitem: American Grill
-  buffetprice1: |
-    $14.95 **for lunch**
-  buffetprice2: |
-    $18.95 **for dinner**
-  buffetdescription: ""
+  buffetprice1: '$14.95 **for lunch**'
+  buffetprice2: '$18.95 **for dinner**'
+  buffetdescription: |
+    **Add a Second Protein** add $3/person
+    **Add A Second Salad or Side** add $1.50/person
+    **Themed Décor Available** add $35/buffet
   buffetsalads: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Tossed Green** - Carrots, Tomatoes, Cucumbers, and Ranch & Balsamic Dressing
     
+    **Cole Slaw** - Shredded Napa Cabbage, Apples, Toasted Pecans with a Spicy Dijon and Lemon Vinaigrette
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Caesar** - Shaved Parmesan, Garlic Croutons, and Creamy Caesar Dressing
   buffetentrees: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Hamburgers** - Grilled to Perfection
     
+    **Hot Dogs** - 100% Kosher Beef
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    ***Vegetarian** Options Available Upon Request
   buffetsides: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Potato Salad** - Yukon Potatoes, Fresh Capers, Smoked Bacon, Scallions, Sweet House-cured Pickles with Classic Mayo dressing
     
+    **Corn on the Cob** - Grilled Corn with Smokey Chipotle Butter
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Mac and Cheese** - Farmhouse Cheddar, Crispy Pancetta, Fresh Chives and a Crispy Bread Crumb Crust
     
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Baked Beans** - Slow Baked Pinto Beans with Caramelized Onions, Brown Sugar and Smoked Bacon
 - 
   buffetitem: Taste of Asia
-  buffetprice1: |
-    $14.95 **for lunch**
-  buffetprice2: |
-    $18.95 **for dinner**
-  buffetdescription: ""
+  buffetprice1: '$14.95 **for lunch**'
+  buffetprice2: '$18.95 **for dinner**'
+  buffetdescription: |
+    **Add a Second Protein** add $3/person
+    **Add A Second Salad or Side** add $1.50/person
+    **Themed Décor Available** add $35/buffet
   buffetsalads: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Chinese Chicken Salad** - Shredded Chicken, Baby Romaine, Fresh Thai Basil, Cucumber, Bean Sprouts with Toasted Sesame Vinaigrette
     
-    
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Green Tea Soba Noodle Salad** - Asian Herbs, Baby Bok Choy, Shiitake Mushrooms, Fresh Mint with Sweet Soy Vinaigrette
   buffetentrees: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Classic Orange Chicken** - Crispy Chicken Breast with Fresh Orange Zest and Chili
     
+    **Spicy Kung Pao Chicken** - Pan Fried Chicken with Dried Chili, Scallions,
+    Toasted Cashews, Cilantro and Spicy Red Chili Sauce
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Broccoli and Beef** - Tender Pieces of Sautéed Beef with Broccoli Served with Classic Teriyaki Glaze
     
+    **Mongolian Beef** - Crispy Beef Dressed in a Sweet and Spicy Soy Sauce with Fresh Garlic, Ginger and Grilled Scallions
     
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Asian Salmon** - Pan Seared Salmon with Spicy Hoisin BBQ Sauce
   buffetsides: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Pan Fried Noodles** - Chow Mein Noodles with Bean Sprouts, Asparagus, Shiitake Mushrooms and Bok Choy
     
+    **The Grand’s House Fried Rice** - Pan Seared Rice with Fresh Peas, Egg, Carrots, Scallions and Fresh Herbs
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Vegetable Stir Fry** - Assorted Vegetables Sautéed with Fresh Garlic, Ginger, Asian Herbs and Sweet Soy Sauce
     
-    
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Steamed White Rice**
 - 
   buffetitem: Polynesian Luau
-  buffetprice1: |
-    $14.95 **for lunch**
-  buffetprice2: |
-    $18.95 **for dinner**
-  buffetdescription: ""
+  buffetprice1: '$14.95 **for lunch**'
+  buffetprice2: '$18.95 **for dinner**'
+  buffetdescription: |
+    **Add a Second Protein** add $3/person
+    **Add A Second Salad or Side** add $1.50/person
+    **Themed Décor Available** add $35/buffet
   buffetsalads: |
     **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
     
-    
     **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
-    
     
     **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
   buffetentrees: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Teriyaki Chicken** - Boneless Chicken Breast Marinated in Teriyaki Sauce, Lemon, Garlic, and Sesame Oil
     
+    **Huli Huli Chicken** - Barbecued Chicken with Pure Hawaiian Brown Sugar Cane, Soy Sauce, and Fresh Ginger
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Hawaiian Style Chicken** - Pan Seared with Crushed Pineapple, Curry Powder, and Pineapple Vinaigrette
     
+    **Kahlua Pulled Pork** - Slow-Cooked Pork Butt with Alaea Sea Salt and Aromatics
     
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Polynesian Tri-Tip** - Marinated with Pineapple, Fresh Ginger, Thai Basil, Brown Sugar, and Garlic-Soy Reduction
+    
+    **“Pu Pu” Spare Ribs** - Oven Roasted with Fresh Ginger, Garlic, Serrano Peppers, and Sweet & Sour Sauce
+    
+    **Teriyaki Salmon** - Atlantic Salmon Marinated in Teriyaki Sauce, Lemon, Garlic, and Sesame Oil
   buffetsides: |
-    **Yum Yum Salad** - Mixed Greens, Candied Pecans, Cherries, Crushed Pineapple, and Shredded Coconut
+    **Steamed Rice** - with Fish Sauce, Scallions, and Sesame Seeds
     
+    **Fried Rice** - with Chinese Sausage, Pineapple, Black Pepper, and Sweet Soy
     
-    **Green Tea Soba Noodles** - with Bok Choy, Bean Sprouts, Fresh Mint, and Orange-Sesame Dressing
+    **Stir Fried Vegetables** - with Shanghai Cabbage, Shiitake Mushrooms, and Chinese Broccoli
     
+    **Old School Macaroni Salad** - with Japanese Mayo, Carrots, and Hawaiian Sea Salt
     
-    **Broccoli Salad** - with Smoked Bacon, Pickled Onions, Dried Cherries, Pumpkin Seeds, and Raspberry Vinaigrette
+    **Hawaiian-Style Potato Salad** - with Pickles, Cucumbers, and Green Peas

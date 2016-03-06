@@ -6,7 +6,7 @@ Category: classic
 
 ----
 
-Text: 
+Text: Live Stations are an interactive experience for your people to choose exactly what they want in their meal. Servers are Required. **Minimum 25 people.**
 
 ----
 
@@ -16,12 +16,82 @@ Menulist:
   item: South of the Border
   description: |
     **Select Two**
-    Red Bliss | Yukon Gold | Cheddar & Chive | Boursin & Garlic Wasabi Mash | Sweet Potato or Sweet Ginger Spiced Potato
+    - Black Beans
+    - Pinto Beans
+    - Refried Beans
+    - Cilantro Lime Rice
+    - Spanish Rice
+    
     **Select Two**
-    Garlic Chive Butter Shrimp | Braised Chicken with Leeks Sirloin Beef with Cabernet Reduction | Korean BBQ Short Ribs Andouille Gumbo | Wild Mushrooms | Cheesy Ratatouille
+    - Carne Asada
+    - Al Pastor
+    - Chorizo
+    - Carnitas
+    - Achiote Chicken
+    - Barbacoa
+    
+    **Includes All**
+    Cotija Cheese | Cheddar Cheese | Sour Cream | Salsa | Cilantro | Onions | Limes | Jalapeños | Fried Half Corn Tortillas
+  price: "$10 **per person** <br/>+$2.50 **for Add on's**"
+- 
+  item: Asian Delight
+  description: |
+    **Features**
+    - Noodles To Go
+    
+    **Select Two**
+    - Kung Pao Chicken
+    - Cashew Chicken
+    - Orange Chicken
+    - Beef & Broccoli
+    - Stir Fry Vegetables
+    
+    **Includes All**
+    Wonton Strips | Togarashi | Scallions | Roasted Peanuts Toasted Sesame Seeds | Sriracha Sauce | Soy Sauce
+  price: "$10 **per person** <br/>+$2.50 **for Add on's**"
+- 
+  item: Mashed Potato Martinis
+  description: |
+    **Select Two**
+    - Red Bliss
+    - Yukon Gold
+    - Cheddar & Chive
+    - Boursin & Garlic
+    - Wasabi Mash
+    - Sweet Potato or Sweet Ginger Spiced Potato
+    
+    **Select Two**
+    - Garlic Chive Butter Shrimp
+    - Braised Chicken with Leeks
+    - Sirloin Beef with Cabernet Reduction
+    - Korean BBQ Short Ribs
+    - Andouille Gumbo
+    - Wild Mushrooms
+    - Cheesy Ratatouille
+    
     **Includes All**
     Sharp Cheddar | Smoked Bacon | Sour Cream | Whipped Butter | Blue Cheese Crumbles | Shoe-String Onions
-  price: $12.00 per guest
+  price: "$12 **per person** <br/>+$3 **for Add on's**"
+- 
+  item: "Mac N' Cheese Martinis"
+  description: |
+    **Select Two**
+    - Cheddar Cheese Sauce
+    - White Cheddar
+    - Brown Ale Bacon Cheddar
+    - Swiss Chive Roasted Garlic
+    - Traditional Cheese Sauce
+    
+    **Select Two**
+    - Rotisserie Chicken
+    - Kahlua Pulled Pork
+    - BBQ Brisket
+    - Country Pork Spare Ribs
+    - Sautéed Mushroom
+    
+    **Includes All**
+    Cheddar Cheese | Sour Cream | Bacon Bits | Scallions | Shoe-String Onions
+  price: "$12 **per person** <br/>+$3 **for Add on's**"
 
 ----
 

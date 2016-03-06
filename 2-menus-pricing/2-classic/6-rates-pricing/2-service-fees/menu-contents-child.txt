@@ -1,0 +1,30 @@
+Displaytitle: Service Fees
+
+----
+
+Category: corporate
+
+----
+
+Text: 
+
+----
+
+Menuitems: 
+
+----
+
+Menulist: 
+
+- 
+  item: Production Fee
+  description: 'All Catering Services will incur a 20% Production Fee and applicable sales tax.'
+  price: '20%'
+
+----
+
+Tags: 
+
+----
+
+Title: Service Fees

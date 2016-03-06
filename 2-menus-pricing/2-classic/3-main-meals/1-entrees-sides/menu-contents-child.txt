@@ -1,4 +1,4 @@
-Displaytitle: Entrees & Sides
+Displaytitle: Entrees
 
 ----
 
@@ -6,16 +6,165 @@ Category: classic
 
 ----
 
-Text: Entrees are $12.00 each
+Text: Special occasions call for perfect pairings. Select One Entree and pair with your choice of salad and two sides. All selections include assorted rolls, butter, iced tea, and coffee service. Priced for Lunch and Dinner. **Servers Required. Minimum 25 People.**
 
 ----
 
 Menulist: 
 
 - 
-  item: sdfadf
-  description: sdfsdf
-  price: "0.00"
+  item: Beef
+  description: ""
+  price: ""
+- 
+  item: ""
+  description: '**Spiced Rubbed Tri-Tip** - Spiced Chili Demi, Roasted Corn Avocado Relish'
+  price: '$29 / $34 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Braised Short Ribs** - Bollini Onions'
+  price: '$31 / $37 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Korean Braised Short Ribs** - Thai Basil & Ginger'
+  price: '$31 / $37 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Herb Crusted Rib Eye** - Horseradish & Cabernet Au Jus'
+  price: '$32 / $38 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Miso Garlic Rub Filet Mignon** - Red Wine Plum Demi Glaze'
+  price: '$32 / $38 **lunch/dinner**'
+- 
+  item: Pork
+  description: ""
+  price: ""
+- 
+  item: ""
+  description: '**Pork Loin** - Bordelaise Sauce & Green Peppercorn'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Apricot Ginger Glaze Pork Loin**'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Pork Loin** - Sautéed Wild Mushrooms & Roasted Shallot Cream Sauce'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Spice Rubbed Pork Loin** - Avocado Relish'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: Seafood
+  description: ""
+  price: ""
+- 
+  item: ""
+  description: '**Pistachio Encrusted Mahi Mahi** - Ginger Mojito Glaze'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Grilled Salmon** - Mango Salsa'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Macadamia Crusted Sea Bass** - Whole Grain Mustard Beurre Blanc'
+  price: '$30 / $36 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Cilantro Herb Encrusted Mexican Sea Bass** - Roasted Tomatillo Crema & Cilantro Espuma'
+  price: '$30 / $36 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Pan Seared Halibut** - Cilantro Lime Crema'
+  price: '$32 / $38 **lunch/dinner**'
+- 
+  item: Chicken
+  description: ""
+  price: ""
+- 
+  item: ""
+  description: '**Chicken Marsala** - Mushroom Veal Demi'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Lemon Chicken** - Lemon Butter Beurre Blanc & Capers'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Honey Almond Chicken** - Tarragon Crema'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**French Onion Chicken** - Onion Demi & Gruyere Cheese'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Parmesan Herb Crusted Chicken Breast** - Tomato Coulis'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Stuffed Chicken Breast** - Spinach, Ricotta, Mushroom & Orange Beurre Blanc'
+  price: '$27 / $32 **lunch/dinner**'
+- 
+  item: Vegetarian
+  description: ""
+  price: ""
+- 
+  item: ""
+  description: '**Grilled Portobello** - Vegetable Medley & Tomato Coulis'
+  price: '$22 / $27 **lunch/dinner**'
+- 
+  item: ""
+  description: '**Butternut Squash Ravioli** - Brown Butter'
+  price: '$22 / $27 **lunch/dinner**'
+- 
+  item: Salads
+  description: |
+    **Select One**
+    
+    - Classic Caesar - Shaved Parmesan & Garlic Croutons
+    - Toss Green - Cucumber, Tomato, Carrots, Ranch Dressing & Balsamic Vinaigrette
+    - Spinach - Smoked Bacon, Mushroom, Goat Cheese & Bacon Onion Vinaigrette
+    - Boston Wedge - Tomato, Scallions, Bacon, Blue Cheese & Ranch Dressing
+    - Panzanella - Cucumbers, Tomato, Slivered Red Onions, Creamy Basil Dressing
+    - Baby Arugula - Grilled Peaches, Pecans, Onion Con t & Blood Orange Vinaigrette
+    - Spring Mix - Fresh Strawberries, Feta, Candied Pecans & Balsamic Vinaigrette
+    - Cali Tower - Romaine, Sundried Tomato, Artichokes, Feta & Basil Vinaigrette
+    - Caprese - Grilled Tomatoes, Fresh Mozzarella, Basil & Balsamic Glaze
+    - Orzo Pasta Salad - Tomatoes, Asparagus, & Kalamata Olives
+    - Mixed Greens - Cranberries, Gorgonzola & Candied Pecans
+  price: ""
+- 
+  item: Sides
+  description: '**Select Two**'
+  price: ""
+- 
+  item: ""
+  description: |
+    **Starches**
+    - Mash | Roasted Garlic, Cheddar, Leek & Horseradish
+    - Red Roasted Potatoes
+    - Yukon Gold Potato Round
+    - Cheesy Scalloped Potatoes
+    - Roasted Sweet Potato
+    - Wild Rice Pilaf
+    - Whole Grain Cous Cous
+    - Butter Quinoa
+  price: ""
+- 
+  item: ""
+  description: |
+    **Veggies**
+    - Seasonal Medley
+    - French Green Beans
+    - Baby Carrots
+    - Broccolini
+    - Ratatouille
+    - Roasted Asparagus
+  price: ""
 
 ----
 
@@ -23,4 +172,4 @@ Tags:
 
 ----
 
-Title: Entrees & Sides
+Title: Entrees

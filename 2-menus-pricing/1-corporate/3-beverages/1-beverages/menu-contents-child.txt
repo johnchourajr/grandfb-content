@@ -2,7 +2,7 @@ Displaytitle:
 
 ----
 
-Category: 
+Category: corporate
 
 ----
 
@@ -13,29 +13,41 @@ Text:
 Menulist: 
 
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Coffee
+  description: ""
+  price: $1.25 **per person**
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Decaf
+  description: ""
+  price: $1.25 **per person**
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Hot Tea
+  description: ""
+  price: $1.75 **per person**
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Iced Tea
+  description: ""
+  price: $1.45 **per person**
+- 
+  item: Lemonade
+  description: ""
+  price: $1.45 **per person**
+- 
+  item: Ice Water
+  description: ""
+  price: $1.25 **per person**
+- 
+  item: Bottled Water
+  description: ""
+  price: $1.25 **per beverage**
+- 
+  item: Canned Sodas
+  description: ""
+  price: $1.35 **per beverage**
+- 
+  item: Canned Iced Tea
+  description: ""
+  price: $1.25 **per beverage**
 
 ----
 

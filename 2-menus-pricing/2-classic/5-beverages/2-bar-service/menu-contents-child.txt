@@ -1,0 +1,73 @@
+Displaytitle: Bar Service
+
+----
+
+Category: classic
+
+----
+
+Text: 
+
+----
+
+Menulist: 
+
+- 
+  item: BYOB
+  description: >
+    Includes Soft Drinks, Mixers, Mineral or
+    Bottled Water, and Client Provided
+    Alcohol, Beer, and Wine
+  price: |
+    3 hrs. - $9
+    
+    4 hrs. - $11
+    
+    5 hrs. - $12
+    
+    6 hrs. - $14
+- 
+  item: Play Nice
+  description: 'Includes Domestic & Imported Beers, House Red & White Wine, Soft Drinks, and Mineral or Bottled Water.'
+  price: |
+    3 hrs. - $15
+    
+    4 hrs. - $17
+    
+    5 hrs. - $19
+    
+    6 hrs. - $21
+- 
+  item: Step it Up
+  description: 'Call Brand Alcohol, Domestic & Imported Beers, House Red & White Wine, Soft Drinks & Mixers, and Mineral or Bottled Water.'
+  price: |
+    3 hrs. - $19
+    
+    4 hrs. - $21
+    
+    5 hrs. - $24
+    
+    6 hrs. - $27
+- 
+  item: Game-Time
+  description: 'Premium Alcohol, Domestic & Imported Beers, House Red & White Wine, Soft Drinks & Mixers, and Mineral or Bottled Water.'
+  price: |
+    3 hrs. - $22
+    
+    4 hrs. - $26
+    
+    5 hrs. - $29
+    
+    6 hrs. - $32
+- 
+  item: 'Martini Bar & Themed Cocktails'
+  description: Please Inquire
+  price: ""
+
+----
+
+Tags: 
+
+----
+
+Title: Bar Service

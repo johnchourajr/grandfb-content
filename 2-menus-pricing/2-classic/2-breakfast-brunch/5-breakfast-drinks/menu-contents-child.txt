@@ -1,0 +1,45 @@
+Displaytitle: Breakfast Drinks
+
+----
+
+Category: classic
+
+----
+
+Text: 
+
+----
+
+Menuitems: 
+
+----
+
+Menulist: 
+
+- 
+  item: Mimosa Bar
+  description: |
+    **Includes All**
+    
+    Champagne | Orange Juice | Cran-Raspberry Juice | Pomegranate Juice | Fresh Strawberries
+  price: ""
+- 
+  item: Bloody Mary Bar
+  description: |
+    **Includes All**
+    
+    Well Vodka | Bloody Mary Mix | Crab | Stu ed Olives | Celery Stalks | Salt
+    *Inquire about additional items.*
+  price: ""
+- 
+  item: Juicing Bar
+  description: 'Includes an Assortment of Seasonal Fruits & Vegetables'
+  price: ""
+
+----
+
+Tags: 
+
+----
+
+Title: Breakfast Drinks

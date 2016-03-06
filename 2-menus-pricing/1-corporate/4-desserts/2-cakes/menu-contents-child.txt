@@ -1,0 +1,34 @@
+Displaytitle: Cakes
+
+----
+
+Category: corporate
+
+----
+
+Text: Base pricing.
+
+----
+
+Menulist: 
+
+- 
+  item: Full Sheet
+  description: ""
+  price: $180
+- 
+  item: Half Sheet
+  description: ""
+  price: $95
+- 
+  item: Quarter Sheet
+  description: ""
+  price: $50
+
+----
+
+Tags: 
+
+----
+
+Title: Cakes

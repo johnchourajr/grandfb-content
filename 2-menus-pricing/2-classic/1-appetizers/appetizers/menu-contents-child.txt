@@ -6,37 +6,174 @@ Category: classic
 
 ----
 
-Tags: 
+Tags:
 
 ----
 
-Text: 
+Text:
 
 ----
 
-Menuitems: 
+Menulist:
+
+-
+  item: 'Meats & Poultry'
+  description: ""
+  price: '$3.50 **Per Appetizer**'
+-
+  item: ""
+  description: '**Braised Short Ribs** - Polenta Crouton & Crème Fraîche'
+  price: ""
+-
+  item: ""
+  description: '**Italian Surf & Turf** - Thai Chili Sauce'
+  price: ""
+-
+  item: ""
+  description: '**Mini Beef Wellingtons** - Béarnaise Sauce'
+  price: ""
+-
+  item: ""
+  description: '**Beef Empanadas** - Avocado Crema'
+  price: ""
+-
+  item: ""
+  description: '**Pepper Crusted Beef Tenderloin** - Spinach & Maytag Blue Cheese'
+  price: ""
+-
+  item: ""
+  description: '**Mongolian Beef Skewer** - Sweet Soy Reduction'
+  price: ""
+-
+  item: ""
+  description: '**Pork Dumplings** - Sweet Soy Dipping Sauce'
+  price: ""
+-
+  item: ""
+  description: '**Turkey Meatloaf Bite** - Garlic Mash '
+  price: ""
+-
+  item: ""
+  description: '**Coconut Chicken** - Thai Curry Sauce'
+  price: ""
+-
+  item: ""
+  description: '**Short Rib Quesadilla** - Chipotle Creme'
+  price: ""
+-
+  item: ""
+  description: '**Chicken Tikka Masala Taco** - Cucumber Raita & Fresh Cilantro '
+  price: ""
+-
+  item: ""
+  description: '**Mini Chicken Pot Pie** - Puff Pastry'
+  price: ""
+-
+  item: ""
+  description: '**Lamb Pops** - Mint Grenolata'
+  price: "$6 **Per Appetizer**"
+-
+  item: 'Seafood'
+  description: ""
+  price: '$3.50 **Per Appetizer**'
+-
+  item: ""
+  description: '**Lobster Corn Dog** - Green Peppercorn Aioli'
+  price: ""
+-
+  item: ""
+  description: '**Shrimp Pops** - Cocktail, Coconut & Thai Chili'
+  price: ""
+-
+  item: ""
+  description: '**Lychee Risotto** - Pan Seared Scallop, Chili Oil, & Watermelon Radish Colossal Crab '
+  price: ""
+-
+  item: ""
+  description: '**Cakes** - Old Bay Aioli'
+  price: ""
+-
+  item: ""
+  description: '**Pecan** Bacon Wrapped Scallop** - Brown Butter'
+  price: ""
+-
+  item: ""
+  description: '**Ahi Poke** - Chinese Green Bean Slaw, Wasabi Aioli & Wonton Crisp Tagachi Pan Seared '
+  price: ""
+-
+  item: ""
+  description: '**Ahi Tuna Tako** - Sriracha Aioli'
+  price: ""
+-
+  item: ""
+  description: '**Ceviche** - Fresh Fish or Shrimp Tostada'
+  price: ""
+-
+  item: 'Vegetarian'
+  description: ""
+  price: '$3.50 **Per Appetizer**'
+-
+  item: ""
+  description: '**Eggplant Parmesan** - Goat Cheese, Sun Dried Tomato, & Kalamata Olives'
+  price: ""
+-
+  item: ""
+  description: '**Caramelized Onion Goat Cheese Tart**'
+  price: ""
+-
+  item: ""
+  description: '**Wild Mushroom Polenta** - Shaved Parmesan'
+  price: ""
+-
+  item: ""
+  description: '**Apricot or Fig Puffs** - Brie Cheese'
+  price: ""
+-
+  item: ""
+  description: '**Sweet Honeydew & Cantaloupe** - Prosciutto'
+  price: ""
+-
+  item: ""
+  description: '**Antipasto Skewers** - Sun Dried Tomato, Artichoke, Mozzarella & Olive'
+  price: ""
+-
+  item: ""
+  description: '**Watermelon Canape** - Feta Cheese, Mandarin & Mint'
+  price: ""
+-
+  item: ""
+  description: '**Grilled Peach Crostini** - Goat Cheese, Honey, & Balsamic Glaze'
+  price: ""
+-
+  item: ""
+  description: '**Cornbread Bruschetta** - Heirloom Tomatoes, Olive Oil, Garlic, & Basil'
+  price: ""
+-
+  item: ""
+  description: '**Chopped Tomato Salad** - Baby Arugula, Basil, Goat Cheese, Crushed Pistachios, & Dijon Vinaigrette'
+  price: ""
+-
+  item: 'Soup Shooters'
+  description: ""
+  price: '$3.50 **Per Appetizer**'
+-
+  item: ""
+  description: '**Tomato Bisque** - Grilled Cheese Crouton'
+  price: ""
+-
+  item: ""
+  description: '**Roasted White Corn Chowder** - Crab & Jalapeno Cornbread Crouton'
+  price: ""
+-
+  item: ""
+  description: '**Creamy Butternut Squash** - Chili Oil & Creme Fraiche'
+  price: ""
+-
+  item: ""
+  description: '**French Onion** - Baked Gruyere Crostini'
+  price: ""
+
 
 ----
 
-Menulist: 
-
-- 
-  item: Menu Item
-  description: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-  price: $0.00
-- 
-  item: Menu Item
-  description: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-  price: $0.00
-- 
-  item: Menu Item
-  description: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-  price: $0.00
-- 
-  item: Menu Item
-  description: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-  price: $0.00
-
-----
-
-Displaytitle: 
+Displaytitle:

@@ -6,11 +6,52 @@ Category: classic
 
 ----
 
-Text: 
+Text: All selections include a choice of salad, assorted rolls, butter, iced tea, and co ee service. Chef Required. **Minimum 50 People.**
 
 ----
 
 Menulist: 
+
+- 
+  item: ""
+  description: '**Add to any Entree Selection**'
+  price: '$6 - $7 † **Per person**'
+- 
+  item: Spiced Pork Loin
+  description: 'Spiced Demi & Avocado Roasted Corn Relish'
+  price: $15
+- 
+  item: Garlic Sage Rub French Pork Lion
+  description: 'Rosemary Demi & Apricot Glaze'
+  price: $20 †
+- 
+  item: Garlic Herb Crusted Beef Sirloin
+  description: Roasted Mushroom Tarragon Ragout
+  price: $19
+- 
+  item: Green Peppercorn Crusted Beef Tenderloin
+  description: 'Bordelaise & Béarnaise Sauce'
+  price: $23 †
+- 
+  item: Wild King Salmon Coulibiac
+  description: Roasted Garlic Chive Beurre Blanc
+  price: $14
+- 
+  item: Oven Roasted Turkey Breast
+  description: 'Orange Relish, Cranberry Relish & Whole Grain Mustard'
+  price: $15
+- 
+  item: Chipotle Honey Beef Tri-Tip
+  description: Honey Chipotle Onion Demi
+  price: $17
+- 
+  item: 'Herb & Salt Crusted Prime Rib'
+  description: 'Red Wine Au Jus, Whole Grain Mustard & Creamy Horseradish'
+  price: $22 †
+- 
+  item: ""
+  description: '*† Meat prices are subject to change due to the market pricing each month.*'
+  price: ""
 
 ----
 

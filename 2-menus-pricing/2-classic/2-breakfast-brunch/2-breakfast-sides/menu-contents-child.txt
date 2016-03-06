@@ -1,8 +1,8 @@
-Displaytitle: Sides
+Title: Breakfast Sides
 
 ----
 
-Category: corporate
+Category: classic
 
 ----
 
@@ -21,10 +21,15 @@ Menulist:
   description: ""
   price: '$1.75 **per person**'
 
+
+----
+
+Menu: 
+
 ----
 
 Tags: 
 
 ----
 
-Title: Sides
+Displaytitle: Breakfast Sides

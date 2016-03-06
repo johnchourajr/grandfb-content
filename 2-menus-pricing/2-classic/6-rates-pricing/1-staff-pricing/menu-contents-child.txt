@@ -1,0 +1,50 @@
+Displaytitle: Staff Pricing
+
+----
+
+Category: classic
+
+----
+
+Text: **3 Hour Minimum per event and per staff is required.**
+
+----
+
+Menulist: 
+
+- 
+  item: Event Server
+  description: ""
+  price: '$30 **per hour**'
+- 
+  item: Event Chef
+  description: ""
+  price: '$40 **per hour**'
+- 
+  item: Event Captain
+  description: ""
+  price: '$40 **per hour**'
+- 
+  item: Personal Attendant
+  description: ""
+  price: '$35 **per hour**'
+- 
+  item: 'Bartender (Beer & Wine Only)'
+  description: ""
+  price: '$35 **per hour**'
+- 
+  item: Bartender (Full Service)
+  description: ""
+  price: '$40 **per hour**'
+- 
+  item: Promotional Staffing
+  description: ""
+  price: '$50+ **per hour**'
+
+----
+
+Tags: 
+
+----
+
+Title: Staff Pricing

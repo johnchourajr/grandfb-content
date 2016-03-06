@@ -13,29 +13,49 @@ Text:
 Menulist: 
 
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: Pick a Sandwich
+  description: ""
+  price: ""
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: ""
+  description: '**The Classic** - Sandwich, Chips, Whole Fresh Fruit and a Cookie'
+  price: $10.95
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: ""
+  description: '**The Motivator** - Sandwich, Pasta or Potato Salad, Whole Fresh Fruit and a Cookie'
+  price: $11.95
 - 
-  item: Menu Item
-  description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+  item: ""
+  description: '**Pick Two Options** (not including vegetarians): Turkey, Ham, Roast Beef, Tuna, Chicken Breast, or Italian'
+  price: $11.95
+- 
+  item: Pick a Salad
+  description: Includes dinner roll and a cookie
+  price: ""
+- 
+  item: ""
+  description: '**Tossed Greens**'
+  price: $11.25
+- 
+  item: ""
+  description: '**Ceasar**'
+  price: $11.25
+- 
+  item: ""
+  description: '**Seasonal Gourmet Salad**'
+  price: $11.25
+- 
+  item: Extras
+  description: ""
+  price: ""
+- 
+  item: ""
+  description: '**Extra Chicken Breast**'
+  price: 'add $1.25 **per lunch**'
+- 
+  item: ""
+  description: '**Add an Individual Canned Soda or Bottled Waters**'
+  price: 'add $1.25 **per beverage**'
 
 ----
 

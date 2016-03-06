@@ -13,29 +13,36 @@ Text:
 Menulist: 
 
 - 
-  item: Menu Item
+  item: Bronze
   description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+    Mini Bun Sandwiches, Domestic Cheese
+    Platter, Fruit Platter, Veggie Platter,
+    Cookies, Coffee, Iced Tea And Water
+  price: $18.75
 - 
-  item: Menu Item
+  item: Silver
   description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+    Mini Bun Sandwiches, Domestic Cheese
+    Platter, Fruit Platter, Veggie Platter,
+    Cookies, Coffee, Iced Tea And Water +
+    Choice Of Any 3 Hors D’oeuvres
+  price: $27.95
 - 
-  item: Menu Item
+  item: Gold
   description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+    Mini Bun Sandwiches, Gourmet Cheese
+    Platter, Fruit Platter, Veggie $32.95
+    Platter, Cookies, Coffee, Iced Tea And
+    Water + Choice Of Any 3 Hors D’oeuvres
+  price: $32.95
 - 
-  item: Menu Item
+  item: Platinum
   description: >
-    Aenean eu leo quam. Pellentesque ornare
-    sem lacinia quam venenatis vestibulum.
-  price: $0.00
+    Mini Bun Sandwiches, Gourmet Cheese
+    Platter, Fruit Platter, Veggie Platter,
+    Cookies, Coffee, Iced Tea And Water +
+    Choice of Any 4 Hors D’oeuvres
+  price: $35.95
 
 ----
 

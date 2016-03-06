@@ -10,12 +10,16 @@ Tags:
 
 ----
 
-Text: Minimum of 15 guests
+Text: Minimum of 15 people.
 
 ----
 
 Menulist: 
 
+- 
+  item: Quick Break
+  description: Breakfast Breads, Coffee, OJ and Water
+  price: '$6.75 **per person**'
 - 
   item: Jump Start
   description: >
@@ -23,10 +27,6 @@ Menulist:
     Assorted Breakfast Breads and Danishes,
     Coffee, OJ and Water
   price: '$8.95 **per person**'
-- 
-  item: Quick Break :)
-  description: Breakfast Breads, Coffee, OJ and Water
-  price: '$6.75 **per person**'
 - 
   item: The Classic
   description: >

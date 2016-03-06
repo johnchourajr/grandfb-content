@@ -6,20 +6,41 @@ Category: classic
 
 ----
 
-Text: 
+Text: Minimum of 15 people.
 
 ----
 
 Menulist: 
 
 - 
-  item: sdfsdf
-  description: sdfsdf
-  price: sdfsf
+  item: Quick Break
+  description: Breakfast Breads, Coffee, OJ and Water
+  price: '$6.75 **per person**'
 - 
-  item: sdfsdf
-  description: sdfsdf
-  price: sdfsdf
+  item: Jump Start
+  description: >
+    A Continental Breakfast of Fresh Fruit,
+    Assorted Breakfast Breads and Danishes,
+    Coffee, OJ and Water
+  price: '$8.95 **per person**'
+- 
+  item: The Classic
+  description: >
+    Scrambled Eggs, Bacon or Sausage,
+    Breakfast Potatoes, Coffee, OJ and Water
+  price: '$10.95 **per person**'
+- 
+  item: The Motivator
+  description: 'Breakfast Bread Medley, Choice of Egg & Cheese Burrito or Cheese and Veggie Omelet, Choice of Bacon or Sausage and Breakfast Potatoes, Coffee, OJ and Water'
+  price: '$12.95 **per person**'
+- 
+  item: Breakfast Burrito
+  description: ""
+  price: '$10.95 **per person**'
+- 
+  item: Breakfast Croissant
+  description: ""
+  price: '10.95 **per person**'
 
 ----
 
